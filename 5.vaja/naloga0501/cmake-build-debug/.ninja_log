@@ -1,0 +1,27 @@
+# ninja log v5
+69	605	7015985104956235	CMakeFiles/5_vaja.dir/Date.cpp.obj	fe7a3ff2dce696c9
+18	885	7016844542171030	CMakeFiles/5_vaja.dir/Excercise.cpp.obj	83f87255aeaa1133
+38	622	7015985105118328	CMakeFiles/5_vaja.dir/Person.cpp.obj	8460b863f5072534
+8	342	7016873657243654	CMakeFiles/5_vaja.dir/naloga0501.cpp.obj	253bd9a83eb3e34a
+28	750	7015985106388617	CMakeFiles/5_vaja.dir/Time.cpp.obj	9f179be60e781d78
+3	317	7016872120295280	CMakeFiles/5_vaja.dir/StrengthExercise.cpp.obj	3d16a55858a2f6d7
+3	442	7016873658243932	CMakeFiles/5_vaja.dir/ExerciseTracker.cpp.obj	8cd4880eac3452a8
+442	555	7016873659334177	5_vaja.exe	cfb2fa77330c69f5
+12	405	7016882589941409	CMakeFiles/5_vaja.dir/StrengthExercise.cpp.obj	3d16a55858a2f6d7
+2	408	7016882589971410	CMakeFiles/5_vaja.dir/Excercise.cpp.obj	83f87255aeaa1133
+22	420	7016882590121427	CMakeFiles/5_vaja.dir/naloga0501.cpp.obj	253bd9a83eb3e34a
+7	539	7016882591291730	CMakeFiles/5_vaja.dir/ExerciseTracker.cpp.obj	8cd4880eac3452a8
+3	306	7016882887296657	CMakeFiles/5_vaja.dir/CompetitiveExercise.cpp.obj	d39a6db16d21fa96
+307	430	7016882888503004	5_vaja.exe	342a8298ace85b95
+9	340	7016891163136216	CMakeFiles/5_vaja.dir/CompetitiveExercise.cpp.obj	d39a6db16d21fa96
+2	360	7016891163346242	CMakeFiles/5_vaja.dir/naloga0501.cpp.obj	253bd9a83eb3e34a
+360	473	7016891164446483	5_vaja.exe	342a8298ace85b95
+3	331	7016892923174473	CMakeFiles/5_vaja.dir/CompetitiveExercise.cpp.obj	d39a6db16d21fa96
+331	442	7016892924254875	5_vaja.exe	342a8298ace85b95
+11	381	7016895333755706	CMakeFiles/5_vaja.dir/StrengthExercise.cpp.obj	3d16a55858a2f6d7
+3	500	7016895334946079	CMakeFiles/5_vaja.dir/ExerciseTracker.cpp.obj	8cd4880eac3452a8
+13	372	7016901795450168	CMakeFiles/5_vaja.dir/CompetitiveExercise.cpp.obj	d39a6db16d21fa96
+9	389	7016901795660231	CMakeFiles/5_vaja.dir/StrengthExercise.cpp.obj	3d16a55858a2f6d7
+17	400	7016901795780253	CMakeFiles/5_vaja.dir/naloga0501.cpp.obj	253bd9a83eb3e34a
+3	511	7016901796850489	CMakeFiles/5_vaja.dir/ExerciseTracker.cpp.obj	8cd4880eac3452a8
+511	623	7016901797970745	5_vaja.exe	342a8298ace85b95

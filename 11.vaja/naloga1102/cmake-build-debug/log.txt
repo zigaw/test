@@ -1,0 +1,10 @@
+05/23/23 08:11:35 INFO [main#10] This is additional message. We can also put multiple << and other types, not just strings e.g. 5
+05/23/23 08:11:35 ERROR [main#17] Sensor_Data.txt does not exist!
+05/23/23 08:11:35 WARN [loadSensorsFromFile#68] Sensor status is set to inactive!
+05/23/23 08:11:35 ERROR [loadSensorsFromFile#73] Sensor with id 12 already exists!
+05/23/23 08:11:35 ERROR [main#37] Sensor with id 12 already exists!
+05/23/23 08:11:35 WARN [main#44] Sensor status is set to inactive!
+05/23/23 08:11:35 WARN [saveSensorsToFile#29] Sensor status is set to inactive!
+05/23/23 08:11:35 WARN [saveSensorsToFile#29] Sensor status is set to inactive!
+05/23/23 08:11:35 WARN [saveSensorsToFile#29] Sensor status is set to inactive!
+05/23/23 08:11:35 WARN [saveSensorsToFile#29] Sensor status is set to inactive!

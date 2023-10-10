@@ -1,0 +1,3 @@
+C:/Users/weing/Desktop/II.semester/Programiranje II/5.vaja/naloga0502/cmake-build-debug/CMakeFiles/naloga0502.dir
+C:/Users/weing/Desktop/II.semester/Programiranje II/5.vaja/naloga0502/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/weing/Desktop/II.semester/Programiranje II/5.vaja/naloga0502/cmake-build-debug/CMakeFiles/rebuild_cache.dir

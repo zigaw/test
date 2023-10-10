@@ -1,0 +1,23 @@
+# ninja log v5
+3	422	7028955393389107	CMakeFiles/naloga0601.dir/naloga0601.cpp.obj	479af2eadd5491f3
+3	374	7028955610007349	CMakeFiles/naloga0601.dir/VerticalPictograph.cpp.obj	d1e82eae4c1941e8
+6	646	7026575142961625	CMakeFiles/naloga0601.dir/Graph.cpp.obj	66bcfb73189b509d
+9	378	7026524019977021	CMakeFiles/naloga0601.dir/PrintUtility.cpp.obj	4d9dd176ff2ec12e
+374	505	7028955611277700	naloga0601.exe	312c0a4c6c7ff376
+3	392	7028968477302024	CMakeFiles/naloga0601.dir/HorizonatalPictograph.cpp.obj	f0c4f29d97efcf87
+392	514	7028968478492455	naloga0601.exe	8f56ef0d9f7c870
+8	384	7028970919483692	CMakeFiles/naloga0601.dir/HorizonatalPictograph.cpp.obj	f0c4f29d97efcf87
+3	391	7028970919553711	CMakeFiles/naloga0601.dir/Graph.cpp.obj	66bcfb73189b509d
+391	500	7028970920624069	naloga0601.exe	8f56ef0d9f7c870
+3	397	7028973484424741	CMakeFiles/naloga0601.dir/naloga0601.cpp.obj	479af2eadd5491f3
+8	403	7028973484474661	CMakeFiles/naloga0601.dir/HorizonatalPictograph.cpp.obj	f0c4f29d97efcf87
+403	511	7028973485524840	naloga0601.exe	8f56ef0d9f7c870
+3	385	7028973803436927	CMakeFiles/naloga0601.dir/naloga0601.cpp.obj	479af2eadd5491f3
+386	495	7028973804497163	naloga0601.exe	8f56ef0d9f7c870
+3	372	7028974114535030	CMakeFiles/naloga0601.dir/Graph.cpp.obj	66bcfb73189b509d
+373	483	7028974115615269	naloga0601.exe	8f56ef0d9f7c870
+3	436	7028975930695240	CMakeFiles/naloga0601.dir/Graph.cpp.obj	66bcfb73189b509d
+9	438	7028975930725236	CMakeFiles/naloga0601.dir/naloga0601.cpp.obj	479af2eadd5491f3
+14	470	7028975931075351	CMakeFiles/naloga0601.dir/VerticalPictograph.cpp.obj	d1e82eae4c1941e8
+19	483	7028975931215336	CMakeFiles/naloga0601.dir/HorizonatalPictograph.cpp.obj	f0c4f29d97efcf87
+484	597	7028975932305590	naloga0601.exe	8f56ef0d9f7c870

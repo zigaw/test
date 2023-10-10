@@ -1,0 +1,3 @@
+C:/Users/weing/Desktop/II.semester/Programiranje II/priprava_nakolokvij01/cmake-build-debug/CMakeFiles/priprava_nakolokvij.dir
+C:/Users/weing/Desktop/II.semester/Programiranje II/priprava_nakolokvij01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/weing/Desktop/II.semester/Programiranje II/priprava_nakolokvij01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

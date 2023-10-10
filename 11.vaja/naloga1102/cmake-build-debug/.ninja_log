@@ -1,0 +1,15 @@
+# ninja log v5
+15	435	7062996596933560	CMakeFiles/naloga1102.dir/Log.cpp.obj	75dc05af9b664403
+10	553	7062934018810552	CMakeFiles/naloga1102.dir/DuplicatedSensorIdExeption.cpp.obj	b704f7bd48783dca
+25	654	7062934019840706	CMakeFiles/naloga1102.dir/PressureSensor.cpp.obj	5862e33d2fd2c4b9
+32	648	7062934019770710	CMakeFiles/naloga1102.dir/Sensor.cpp.obj	c29863d72f851076
+551	696	7063030125528954	naloga1102.exe	352bc67a70058fcb
+4	631	7063028955938201	CMakeFiles/naloga1102.dir/SensorHub.cpp.obj	41ddb19527ae6ef
+17	662	7062934019920742	CMakeFiles/naloga1102.dir/PressureSensorP12.cpp.obj	9ed5170ae4b7b73a
+3	550	7063030124088700	CMakeFiles/naloga1102.dir/naloga1101.cpp.obj	716b2520eb04a5c5
+15	322	7063010359509873	CMakeFiles/naloga1102.dir/FileAccesException.cpp.obj	88b72ac6ed4e2c18
+2	276	7063952268127147	build.ninja	db267c79be988416
+11	306	7063024518373444	CMakeFiles/naloga1102.dir/FileAccessException.cpp.obj	3f5b81cc05813d06
+9	775	7065254658056226	CMakeFiles/naloga1102.dir/Log.cpp.obj	75dc05af9b664403
+20	1125	7065254661548549	CMakeFiles/naloga1102.dir/naloga1101.cpp.obj	716b2520eb04a5c5
+1126	1412	7065254664369175	naloga1102.exe	352bc67a70058fcb

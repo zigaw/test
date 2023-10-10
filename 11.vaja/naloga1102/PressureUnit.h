@@ -1,0 +1,11 @@
+
+#ifndef NALOGA1101_PRESSUREUNIT_H
+#define NALOGA1101_PRESSUREUNIT_H
+
+enum class PressureUnit{
+    PSI,PA
+};
+
+
+
+#endif //NALOGA1101_PRESSUREUNIT_H

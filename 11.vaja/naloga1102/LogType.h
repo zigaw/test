@@ -1,0 +1,11 @@
+#ifndef NALOGA1102_LOGTYPE_H
+#define NALOGA1102_LOGTYPE_H
+
+enum class LogType{
+    DEBUG, INFO, WARN, ERROR
+};
+
+
+
+
+#endif //NALOGA1102_LOGTYPE_H

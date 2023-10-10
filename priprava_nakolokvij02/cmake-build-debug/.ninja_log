@@ -1,0 +1,17 @@
+# ninja log v5
+3	543	7069091486718239	CMakeFiles/priprava_nakolokvij02.dir/Fuel.cpp.obj	a66b34d41117e6dd
+1	371	7069090821896637	CMakeFiles/priprava_nakolokvij02.dir/UnparsableDateException.cpp.obj	f81fdc7374f7e108
+1	321	7069091723074700	build.ninja	42bee2fc13e13b75
+6	379	7069090821986698	CMakeFiles/priprava_nakolokvij02.dir/FileNotFound.cpp.obj	9b94eb35d1bb840a
+15	385	7069090822046681	CMakeFiles/priprava_nakolokvij02.dir/Date.cpp.obj	b313608947e7c4c
+2	359	7069092109276658	CMakeFiles/priprava_nakolokvij02.dir/main.cpp.obj	f888419080e2859
+2	365	7069092240949466	CMakeFiles/priprava_nakolokvij02.dir/main.cpp.obj	f888419080e2859
+366	494	7069092242199434	priprava_nakolokvij02.exe	5b8aaa82ff354106
+9	437	7069143489191468	CMakeFiles/priprava_nakolokvij02.dir/main.cpp.obj	f888419080e2859
+4	424	7069146225084937	CMakeFiles/priprava_nakolokvij02.dir/main.cpp.obj	f888419080e2859
+19	568	7069903540369663	CMakeFiles/priprava_nakolokvij02.dir/Date.cpp.obj	b313608947e7c4c
+13	655	7069903541239769	CMakeFiles/priprava_nakolokvij02.dir/main.cpp.obj	f888419080e2859
+4	920	7069903620089676	CMakeFiles/priprava_nakolokvij02.dir/Fuel.cpp.obj	a66b34d41117e6dd
+921	1226	7069903623139614	priprava_nakolokvij02.exe	5b8aaa82ff354106
+3	514	7069904706816590	CMakeFiles/priprava_nakolokvij02.dir/main.cpp.obj	f888419080e2859
+515	649	7069904708127893	priprava_nakolokvij02.exe	5b8aaa82ff354106
