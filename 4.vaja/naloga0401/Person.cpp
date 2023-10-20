@@ -40,7 +40,7 @@ void Person::setWeight(float weight) {
 unsigned int Person::getHeight() const {
     return height;
 }
-
+// tu so se zgodile spremembe saj sem nelaj komentiral
 void Person::setHeight(unsigned int height) {
     Person::height = height;
 }
